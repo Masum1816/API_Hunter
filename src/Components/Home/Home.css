@@ -1,0 +1,25 @@
+.background{
+    width: 100%;
+    height: 100px;
+    background-color: aquamarine;
+}
+.cardData{
+    width: 200px;
+    height: 200px;
+    background-color:antiquewhite;
+    border-radius: 50px;
+    top: -5;
+}
+.img{
+    width: 100px;
+    height: 100px;
+    margin: auto;
+    padding: 35px;
+    border-radius: 50%;
+    background-color: aquamarine;
+}
+.img svg{
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
+}
